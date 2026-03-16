@@ -15,11 +15,6 @@
 ### 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="30"/>
 
-### 📂 Projects
-- **Airbnb Clone** – A responsive booking platform  
-- **Pomofocus** - A customizable pomodoro timer
-- **Rick and Morty App** – Character cards with filtering and API integration 
-- **JavaScript Practice** – Various algorithm & DOM tasks  
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalybekovanurai&layout=compact&theme=radical)
