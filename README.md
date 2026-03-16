@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Nurai
 
-<!--
-**kalybekovanurai/kalybekovanurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | JS & React Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- Building **interactive web apps** with React & TypeScript  
+- Improving **JavaScript skills** through challenges and projects  
+
+### 🌱 Currently learning
+- Advanced React patterns  
+- Modern CSS & Tailwind  
+
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="30"/>
+
+### 📂 Projects
+- **Airbnb Clone** – A responsive booking platform  
+- **Pomofocus** - A customizable pomodoro timer
+- **Rick and Morty App** – Character cards with filtering and API integration 
+- **JavaScript Practice** – Various algorithm & DOM tasks  
+
+### 📊 GitHub Stats
+![Nurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+### 📫 Contact Me
+- Email: `nnur28515@gmail.com`  
