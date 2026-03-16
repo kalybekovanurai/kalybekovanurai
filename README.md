@@ -16,8 +16,5 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="30"/>
 
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalybekovanurai&layout=compact&theme=radical)
-
 ### 📫 Contact Me
 - Email: `nnur28515@gmail.com`  
